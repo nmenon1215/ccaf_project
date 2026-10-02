@@ -1,0 +1,9 @@
+{
+  "servers": {
+    "ccaf-data-tools": {
+      "type": "stdio",
+      "command": "c:/python313/python.exe",
+      "args": ["-m", "mcp_server.server"]
+    }
+  }
+}
